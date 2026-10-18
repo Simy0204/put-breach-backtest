@@ -147,3 +147,9 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# SQLite database (created by the seed script; do not commit)
+*.db
+*.db-journal
+*.db-wal
+   *.db-shm
