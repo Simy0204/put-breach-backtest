@@ -152,4 +152,4 @@ vite.config.ts.timestamp-*
 *.db
 *.db-journal
 *.db-wal
-   *.db-shm
+*.db-shm
